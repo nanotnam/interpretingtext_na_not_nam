@@ -1,0 +1,25 @@
+id,place,date,birth,age,rank,regiment,Neg,SNeg,Neu,SPos,Pos,noRows,score,sentiment
+a_most_awful_time,France,19/06/1915,04/06/1892,23,Lance Corporal,1/6 Seaforth Highlanders,3,2,9,3,0,17,-0.1470588235,Slightly Negative
+a_noisy_business,France,15/07/1915,30/01/1888,27,Private,8th Argyll and Sutherland Highlanders; Duke of Cornwall’s Light Infantry,1,1,22,4,3,31,0.1129032258,Slightly Positive
+an_everlasting_nightmare,Turkey,18/06/1915,28/08/1884,30,Private,Drakes Battalion; Royal Naval Volunteer Reserve,15,4,17,2,2,40,-0.35,Negative
+an_interesting_souvenir,France,07/10/1915,18/04/1894,21,Private,1/6 Seaforth Highlanders,4,4,13,1,4,26,-0.05769230769,Neutral
+awfully_desolate_spot,France,12/05/1915,30/01/1888,27,Private,8th Argyll and Sutherland Highlanders; Duke of Cornwall’s Light Infantry,7,2,15,6,4,34,-0.02941176471,Neutral
+being_under_fire,France,10/08/1915,08/01/1894,21,Corporal,Royal Field Artillery,4,3,28,3,8,46,0.08695652174,Neutral
+canaries_in_cages,France,06/07/1915,30/01/1888,27,Private,8th Argyll and Sutherland Highlanders; Duke of Cornwall’s Light Infantry,0,0,14,0,1,15,0.06666666667,Neutral
+caught_dysentery,Malta,29/09/1915,08/08/1893,22,Corporal,Royal Buckinghamshire Hussars,4,2,30,3,4,43,0.01162790698,Neutral
+do_you_like_the_photo,England,17/05/1915,18/05/1898,16,Private,Royal Buckinghamshire Hussars,0,0,6,1,0,7,0.07142857143,Neutral
+dodging_damned_great_bombs,France,11/07/1915,17/03/1888,27,Sergeant,4th Seaforth Highlanders,3,1,8,1,0,13,-0.2307692308,Slightly Negative
+drill_before_breakfast,France,04/04/1915,08/03/1895,20,Lance Corporal,Railway Troop; Royal Engineers,2,4,30,6,4,46,0.0652173913,Neutral
+got_married_a_week_before,Turkey,06/08/1915,18/08/1878,36,Warrant Officer Class 2,10 Middlesex Regiment,0,0,16,2,5,23,0.2608695652,Positive
+had_a_game_of_football,France,,28/07/1893,,Private,1/3 (City of London) Battalion (Royal Fusiliers),3,1,16,3,7,30,0.1666666667,Slightly Positive
+handling_a_maxim,France,16/11/1915,18/04/1894,21,Private,1/6 Seaforth Highlanders,2,2,8,4,3,19,0.1052631579,Slightly Positive
+heaps_have_cameras_taking_photos,Turkey,23/11/1915,28/08/1884,31,Private,Drakes Battalion; Royal Naval Volunteer Reserve,5,5,28,9,6,53,0.05660377358,Neutral
+millions_of_flies,Turkey,03/10/1915,09/05/1880,35,Lieutenant,4th Seaforth Highlanders,6,2,33,4,6,51,0.01960784314,Neutral
+no_signs_of_moving,England,30/12/1915,07/01/1884,31,Sapper,Railway Troop; Royal Engineers,0,1,3,1,1,6,0.1666666667,Slightly Positive
+parched_with_the_heat,Turkey,08/11/1915,18/08/1878,37,Warrant Officer Class 2,10 Middlesex Regiment,6,1,15,5,1,28,-0.1071428571,Slightly Negative
+souvenirs_sent_over,France,03/11/1915,30/01/1888,27,Private,8th Argyll and Sutherland Highlanders; Duke of Cornwall’s Light Infantry,0,2,20,6,1,29,0.1034482759,Slightly Positive
+swept_continually_with_shells,France,,13/11/1891,,Private,1/5 Grenadier Company; London Rifle Brigade,6,4,17,1,0,28,-0.2678571429,Negative
+the_biggest_gruelling,Belgium,19/10/1915,22/08/1875,40,Sergeant,13 County of London Regiment (King's Royal Rifles Corps),3,1,9,2,2,17,-0.02941176471,Neutral
+they_were_mostly_meer_boys,France,12/05/1915,20/09/1887,27,Staff Sergeant,4th Seaforth Highlanders,7,3,10,2,3,25,-0.18,Slightly Negative
+up_to_our_knees_in_water,France,10/11/1915,22/08/1875,40,Sergeant,13 County of London Regiment (King's Royal Rifles Corps),2,5,7,2,0,16,-0.21875,Slightly Negative
+we_are_now_fully_equiped,England,09/11/1915,21/10/1879,36,Sapper,Railway Troop; Royal Engineers,0,2,8,0,3,13,0.1538461538,Slightly Positive
